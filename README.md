@@ -1,1 +1,1 @@
-# Wizard-Duells
+# Wizard Duells
